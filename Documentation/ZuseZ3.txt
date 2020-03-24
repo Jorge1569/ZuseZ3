@@ -20,7 +20,7 @@ indicate which type of error had occurred.
   Because the machine was electro-mechanical it was quite slow, only performing
 about 3 additions every 2 seconds, or one multiplication in 3 seconds.
 
-  The Z3 had a memory of 60 22-bit words which could be used to hold data.  
+  The Z3 had a memory of 64 22-bit words which could be used to hold data.  
 Programs however came from punched tape.  The Z3 would retrieve the next
 instruction from the tape and execute it, continuing in this fashion until the
 machine ran out of tape.  A primitive form of looping could be achieved by
